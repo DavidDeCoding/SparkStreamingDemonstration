@@ -1,5 +1,7 @@
 # SparkStreamingDemonstration
 
+This is an ongoing project to demonstrate spark streaming, its features and integration mechanisms. As new information comes up, this is get updated. For now, it contains all implementations in Java 8.
+
 ## Parts of Demostration:
 ####1. Stateless
 ####2. Stateful
